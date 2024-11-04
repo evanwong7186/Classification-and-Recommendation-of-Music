@@ -1,4 +1,5 @@
 # Classification and Recommendation of Music
+### Note: This project is still ongoing
 The purpose of this project is to create an algorithm to classify music from Spotify based on mood. The musical features retrived from spotify are in the "data" folder. Based on the classification, an algorithm will be created to recommend these music by creating playlists on spotify.
 
 ### Here are some plots of data clustering: 
